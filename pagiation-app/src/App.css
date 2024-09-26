@@ -1,0 +1,22 @@
+.button-div {
+  display: flex;
+  flex-wrap: wrap;
+  align-items: center;
+  justify-content: center;
+  margin-top: 2rem;
+}
+
+table {
+  width: 100%;
+  height: 200px;
+  table-layout: fixed;
+}
+
+select {
+  width: 10rem;
+  text-align: center;
+}
+
+.input-div {
+  height: max-content;
+}

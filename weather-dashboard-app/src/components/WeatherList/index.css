@@ -1,0 +1,9 @@
+.weather-list {
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: center;
+}
+
+.city-details {
+  font-size: 0.8em;
+}
